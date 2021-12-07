@@ -1,0 +1,44 @@
+h1 {
+text-align: center;
+margin-top: 50px;
+letter-spacing: 3px;
+border: 3px ridge #ffffff
+}
+h2 {
+margin-left: 25px;
+letter-spacing: 2px;
+margin-top: 35px;
+text-decoration: underline;
+}
+h3 {
+text-align: center;
+margin-top: 35px;
+letter-spacing: 2px;
+}
+h4 {
+text-align: center;
+margin-top: 50px;
+letter-spacing: 2px;
+}
+h5 {
+text-align: center;
+margin-top: 50px;
+letter-spacing: 2px;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+border: 3px solid #ffffff;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+p {
+margin-left: 25px;
+letter-spacing: 2px;
+margin-top: 25px;
+}
+body {
+background-color: maroon;
+}
